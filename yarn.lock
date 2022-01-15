@@ -3094,9 +3094,9 @@ cwl-svg@2.0.1:
   dependencies:
     core-js "^2.5.1"
 
-cwlts@1.15.25:
-  version "1.15.25"
-  resolved "https://registry.yarnpkg.com/cwlts/-/cwlts-1.15.25.tgz#a71aa33f10a0daf4210c99fe1f36a550e36b00e1"
+cwlts@1.15.29:
+  version "1.15.29"
+  resolved "https://registry.yarnpkg.com/cwlts/-/cwlts-1.15.29.tgz#9000f26406f0af1506c5e123decd51122cc4f2d3"
   dependencies:
     ajv "^6.1.1"
     js-yaml "^3.10.0"
@@ -6165,8 +6165,8 @@ markdown-loader@^2.0.2:
     marked "^0.3.9"
 
 marked@^0.3.9:
-  version "0.3.12"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.12.tgz#7cf25ff2252632f3fe2406bde258e94eee927519"
+  version "0.3.19"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.19.tgz#5d47f709c4c9fc3c216b6d46127280f40b39d790"
 
 math-expression-evaluator@^1.2.14:
   version "1.2.17"
