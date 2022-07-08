@@ -3094,9 +3094,9 @@ cwl-svg@2.0.1:
   dependencies:
     core-js "^2.5.1"
 
-cwlts@1.15.25:
-  version "1.15.25"
-  resolved "https://registry.yarnpkg.com/cwlts/-/cwlts-1.15.25.tgz#a71aa33f10a0daf4210c99fe1f36a550e36b00e1"
+cwlts@1.15.29:
+  version "1.15.29"
+  resolved "https://registry.yarnpkg.com/cwlts/-/cwlts-1.15.29.tgz#9000f26406f0af1506c5e123decd51122cc4f2d3"
   dependencies:
     ajv "^6.1.1"
     js-yaml "^3.10.0"
@@ -6413,9 +6413,9 @@ module-deps@^4.0.8:
     through2 "^2.0.0"
     xtend "^4.0.0"
 
-moment@*, moment@^2.16.0, moment@^2.20.1:
-  version "2.20.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
+moment@*, moment@^2.16.0, moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 move-concurrently@^1.0.1:
   version "1.0.1"
