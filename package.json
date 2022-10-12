@@ -91,7 +91,7 @@
         "codelyzer": "^4.0.1",
         "concurrently": "^3.5.0",
         "electron": "1.7.12",
-        "electron-builder": "^19.56.0",
+        "electron-builder": "^23.6.0",
         "fs-extra": "^4.0.1",
         "git-changelog": "^1.1.2",
         "glob": "^7.1.1",
